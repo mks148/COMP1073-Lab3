@@ -1,0 +1,24 @@
+{
+  "name": "Lab3",
+  "homepage": "https://github.com/mks148/COMP1073-Lab3",
+  "authors": [
+    "Manoj <mks148@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}
